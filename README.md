@@ -1,5 +1,6 @@
-### Hi there 👋
+# Olá eu sou o Gabriel (Masked), iniciante em Front-End.
 
+Atualmente estudante Front-End na Alura, e cursando o ensino médio técnico.
 <!--
 **Mask3ddd/Mask3ddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
