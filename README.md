@@ -14,7 +14,7 @@ Atualmente estudante Front-End na Alura, e cursando o ensino médio técnico.
   ##
 
 <div>
-  <a href="https://twitter.com/Mask3dd_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/pvd_gabrielcm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pvd.gabrielcm" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
  
