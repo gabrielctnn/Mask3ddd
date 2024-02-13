@@ -1,4 +1,4 @@
-# Olá eu sou o Gabriel (Masked), iniciante em Front-End.
+# Olá eu sou o Gabriel, iniciante em Front-End.
 
 Atualmente estudante Front-End na Alura, e cursando o ensino médio técnico.
 
